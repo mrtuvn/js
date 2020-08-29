@@ -1,0 +1,10 @@
+{
+  "name": "js-learn",
+  "version": "1.0.0",
+  "description": "Demo and js pieces for study",
+  "main": "index.js",
+  "repository": "git@github.com:mrtuvn/js.git",
+  "author": "Tu Nguyen <ladiesman9x@gmail.com>",
+  "license": "MIT",
+  "private": false
+}

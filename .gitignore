@@ -1,0 +1,26 @@
+node_modules/
+yarn.lock
+build/
+bower_components/
+
+# testing
+coverage
+
+# misc
+.DS_Store
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+.vscode
+jsconfig.json
+test-results
+dist
+storybook-dist
+.idea
+test-report.xml
+test-results.json
+.env
+yarn-error.log
