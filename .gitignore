@@ -3,6 +3,9 @@ yarn.lock
 build/
 bower_components/
 
+.netlify
+data/*
+
 # testing
 coverage
 
